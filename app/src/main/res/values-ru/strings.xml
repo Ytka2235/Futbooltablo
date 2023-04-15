@@ -1,0 +1,7 @@
+<resources>
+    <string name="butUSA">США</string>
+    <string name="butR">Россия</string>
+    <string name="butSbros">Сброс</string>
+    <string name="app_name">табло</string>
+    <string name="c0unt">:</string>
+</resources>

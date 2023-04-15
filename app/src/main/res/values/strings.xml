@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Futbool tablo</string>
+    <string name="butUSA">USA</string>
+    <string name="butR">Russia</string>
+    <string name="butSbros">reset</string>
+    <string name="app_name">tablo</string>
+    <string name="c0unt">:</string>
 </resources>
